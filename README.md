@@ -1,2 +1,2 @@
-# Computational-Mathematics-with-SageMath
-Computational Mathematics with SageMath Notebooks from Dr. Ajit Kumar Course
+# Computational Mathematics with SageMath
+Jupytera & SageMath Notebooks from Dr. Ajit Kumar Course
