@@ -1,6 +1,8 @@
 # Computational Mathematics with SageMath
 
-## Jupyter & SageMath Notebooks created from course of Dr. Ajit Kumar @ ICT Mumbai
+### Jupyter & SageMath Notebooks created from course of Dr. Ajit Kumar @ ICT Mumbai
+
+[Course link](https://onlinecourses.nptel.ac.in/noc21_ma29/course)
 
 ### Requires :
 
