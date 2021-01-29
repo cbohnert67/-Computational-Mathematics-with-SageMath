@@ -8,6 +8,8 @@
 
 Python >= 3.8,
 Numpy >= 1.19
+Matplotlib >= 3.3.2
+
 
 ## Week 1 exercises notebooks
 
