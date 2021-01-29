@@ -24,3 +24,7 @@ while_loops.ipynb
 ## Week 2 exercises notebooks
 
 using_numpy.ipynb
+
+using_matplotlib.ipynb
+
+**More to come !!!**
