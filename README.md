@@ -27,5 +27,9 @@ using_matplotlib.ipynb
 
 using_scipy_sympy.ipnb
 
+using_object_oriented_pyhton.ipynb
+
+
+## Week 3 exercises notebooks
 
 **More to come !!!**
