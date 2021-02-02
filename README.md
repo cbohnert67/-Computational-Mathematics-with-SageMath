@@ -25,4 +25,7 @@ using_numpy.ipynb
 
 using_matplotlib.ipynb
 
+using_scipy_sympy.ipnb
+
+
 **More to come !!!**
