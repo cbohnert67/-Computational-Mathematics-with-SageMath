@@ -32,4 +32,8 @@ using_object_oriented_python.ipynb
 
 ## Week 3 exercises notebooks
 
+exploring_integers.ipynb
+
+
+
 **More to come !!!**
