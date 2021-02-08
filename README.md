@@ -7,7 +7,7 @@
 ### Requires : Python >= 3.8, Numpy >= 1.19, Matplotlib >= 3.3.2, Scipy >= 1.5.2, Sympy >= 1.6.2
 
 
-## Week 1 exercises notebooks
+## Week 1 : Basics of Python
 
 advanced_scientific_calculator.ipynb
 
@@ -19,7 +19,7 @@ for_loops.ipynb
 
 while_loops.ipynb
 
-## Week 2 exercises notebooks
+## Week 2 : Using scientific modules and object oriented programming
 
 using_numpy.ipynb
 
@@ -30,7 +30,7 @@ using_scipy_sympy.ipnb
 using_object_oriented_python.ipynb
 
 
-## Week 3 exercises notebooks
+## Week 3 : Introduction to Sagemath and basic of calculus
 
 exploring_integers.ipynb
 
