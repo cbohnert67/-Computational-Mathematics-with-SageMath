@@ -34,6 +34,8 @@ using_object_oriented_python.ipynb
 
 exploring_integers.ipynb
 
+basics_of_solving_equations.ipynb
 
+basics_of_plotting.ipynb
 
 **More to come !!!**
