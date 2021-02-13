@@ -30,7 +30,7 @@ using_scipy_sympy.ipnb
 using_object_oriented_python.ipynb
 
 
-## Week 3 : Introduction to Sagemath and basic of calculus
+## Week 3 : Introduction to Sagemath and basics of calculus
 
 exploring_integers.ipynb
 
