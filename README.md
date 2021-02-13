@@ -38,4 +38,6 @@ basics_of_solving_equations.ipynb
 
 basics_of_plotting.ipynb
 
+basics_of_calculus_part1.ipynb
+
 **More to come !!!**
