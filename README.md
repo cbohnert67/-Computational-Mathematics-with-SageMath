@@ -40,4 +40,10 @@ basics_of_plotting.ipynb
 
 basics_of_calculus_part1.ipynb
 
+basics_of_calculus_part2.ipynb
+
+
+## Week 4 :
+
+
 **More to come !!!**
