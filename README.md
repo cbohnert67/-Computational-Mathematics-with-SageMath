@@ -4,8 +4,11 @@
 
 [Course link](https://onlinecourses.nptel.ac.in/noc21_ma29/course)
 
-### Requires : Python >= 3.8, Numpy >= 1.19, Matplotlib >= 3.3.2, Scipy >= 1.5.2, Sympy >= 1.6.2
+### Requires : 
 
+Python >= 3.8, Numpy >= 1.19, Matplotlib >= 3.3.2, Scipy >= 1.5.2, Sympy >= 1.6.2
+
+SageMath >= 9.2
 
 ## Week 1 : Basics of Python
 
