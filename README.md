@@ -41,9 +41,9 @@ basics_of_solving_equations.ipynb
 
 basics_of_plotting.ipynb
 
-basics_of_calculus_part1.ipynb
+computing_derivatives.ipynb
 
-basics_of_calculus_part2.ipynb
+applications_of_derivatives.ipynb
 
 
 ## Week 4 : Calculus continued
