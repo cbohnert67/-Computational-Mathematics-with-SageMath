@@ -41,9 +41,9 @@ basics_of_solving_equations.ipynb
 
 basics_of_plotting.ipynb
 
-computing_derivatives.ipynb
+limits_and_continuity.ipynb
 
-applications_of_derivatives.ipynb
+computing_derivatives_and_applications.ipynb
 
 
 ## Week 4 : Calculus single variable part 2
