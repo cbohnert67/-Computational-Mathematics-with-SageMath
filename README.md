@@ -33,7 +33,7 @@ using_scipy_sympy.ipnb
 using_object_oriented_python.ipynb
 
 
-## Week 3 : Introduction to Sagemath and basics of calculus
+## Week 3 : Introduction to Sagemath and calculus single variable part 1
 
 exploring_integers.ipynb
 
@@ -46,7 +46,7 @@ computing_derivatives.ipynb
 applications_of_derivatives.ipynb
 
 
-## Week 4 : Calculus continued
+## Week 4 : Calculus single variable part 2
 
 computing_integrals.ipynb
 
