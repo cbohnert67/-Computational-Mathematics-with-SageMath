@@ -46,7 +46,11 @@ basics_of_calculus_part1.ipynb
 basics_of_calculus_part2.ipynb
 
 
-## Week 4 :
+## Week 4 : Calculus continued
+
+computing_integrals.ipynb
+
+applications_of_integrals_part1.ipynb
 
 
 **More to come !!!**
