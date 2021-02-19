@@ -52,5 +52,6 @@ computing_integrals.ipynb
 
 applications_of_integrals_part1.ipynb
 
+applications_of_integrals_part2.ipynb
 
 **More to come !!!**
