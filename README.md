@@ -56,4 +56,6 @@ applications_of_integrals_part2.ipynb
 
 calculus_in_polar_coordinates.ipynb
 
+limits_and_partial_derivatives.ipynb
+
 **More to come !!!**
