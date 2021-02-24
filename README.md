@@ -46,7 +46,7 @@ limits_and_continuity.ipynb
 computing_derivatives_and_applications.ipynb
 
 
-## Week 4 : Calculus single variable part 2 and calculus several variables
+## Week 4 : Calculus single variable part 2 and calculus several variables part 1
 
 computing_integrals.ipynb
 
