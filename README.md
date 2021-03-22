@@ -60,4 +60,20 @@ limits_and_partial_derivatives.ipynb
 
 extrema_and_application_to_curve_fitting.ipynb
 
-**More to come !!!**
+## Week 5 : Constrained optimization and linear algebra part 1
+
+working_with_vectors.ipynb
+
+solving_systems_of_linear_equations.ipynb
+
+vector_spaces.ipynb
+
+basis_and_dimenskion.ipynb
+
+matrix_spaces.ipynb
+
+linear_transformation_part1.ipynb
+
+linear_transformation_part2.ipynb
+
+## Week 6 :  **More to come !!!**
